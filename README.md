@@ -1,5 +1,7 @@
 # Lab-3
 
-Practice refactoring JavaScript code to use more modern syntax Practice destructuring an object Practice converting normal functions into arrow function expressions Examine using for..in  syntax with objects Practice using for..of syntax with arrays Practice creating a Node.js compatible code module using module.exports Practice importing a Node.js compatible code module using require Examine code using the spread operator
+Lab 3 focussed on writing Javascript code. We learned and practiced practical uses for object destructuring as well as worked with arrow functions, for.. in syntax, for... of syntax, spread operator, and general array syntax. Lastly, we practiced creating a Node.js compatible code module using module.exports, and importing a Node.js compatible code module using require. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [GitHub Page](https://github.com/UofOalexfort/Lab-3)
